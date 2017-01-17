@@ -1,0 +1,27 @@
+{
+  "name": "simple-look",
+  "version": "1.0.0",
+  "description": "A CSS library for simple looks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebhaskara/simple-look.git"
+  },
+  "author": "Bhaskara Rama Sai Busam",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/thebhaskara/simple-look/issues"
+  },
+  "homepage": "https://github.com/thebhaskara/simple-look#readme",
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-sync": "^0.1.4",
+    "normalize-css": "^2.3.1",
+    "roboto-fontface": "^0.6.0"
+  }
+}
